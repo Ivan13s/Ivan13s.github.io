@@ -1,0 +1,8 @@
+{
+    "notifications": [
+      { "id": 1, "title": "Notification 1" },
+      { "id": 2, "title": "Notification 2" },
+      { "id": 3, "title": "Notification 3" }
+    ],
+    "issues": []
+  }
